@@ -72,4 +72,4 @@ btn_equals=tk.Button(root,text="=",command=lambda: evaluate_calculation(),width=
 btn_equals.grid(row=6,column=3,columnspan=2)
 root.mainloop()
 
-print("nikdo")
+print("ohkayy byeee")
